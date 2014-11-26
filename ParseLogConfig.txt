@@ -1,0 +1,7 @@
+{
+    "logIpDisabled": false,
+    "smsNotificationDisabled": true,
+    "MyParseJsKey": "9Nnolrnsh8Bzode2et8NZAzRc5bOwzVYVoDtL8a6",
+    "MyParseAppId": "jTXkXEI9W7hSQ5yiKdtmR3zJV6FnzDG06QJ4EDIu",
+    "META_TinyWallIndex": "84DM4rHnHP"
+}
